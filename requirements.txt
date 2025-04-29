@@ -6,4 +6,4 @@ pytesseract
 pandas
 numpy
 
-# tes
+# tesseract ocr download in system  and add path 
