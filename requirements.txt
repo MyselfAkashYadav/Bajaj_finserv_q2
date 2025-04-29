@@ -7,3 +7,4 @@ pandas
 numpy
 
 # tesseract ocr download in system  and add path 
+
